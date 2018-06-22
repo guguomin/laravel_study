@@ -3,6 +3,6 @@
 
 @section('content')
 <h1>
-    关于页
+    <li><a href="{{ route('about') }}">关于页</a></li>
 </h1>
 @stop
